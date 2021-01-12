@@ -13,14 +13,14 @@ For exploratory data analysis, we will be examining on –
 
 •	What are different labels in training and validation/testing data sets available in Human Face category.
 
-Data Source-
+**Data Source**-
 •	This data source link -https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&type=detection&c=%2Fm%2F0dzct
 
 •	This data contains around 36.5 M images with 19,969 classes with three types- ‘Segmentation’, ‘Detection’ and ‘Relationships’ with multiple categories.
 
 •	We will be using ‘Detection’ type with ‘Human Face’ category from this dataset to implement this project.
 
-Execution-
+**Execution**-
 
 This is going to be 5 different parts series-
 
